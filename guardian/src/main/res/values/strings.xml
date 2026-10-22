@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Order Guardian</string>
+    <string name="accessibility_service_label">Order Guardian protection</string>
+    <string name="accessibility_service_summary">Watches Amazon and Flipkart for checkout screens, stops the order, and asks the family before any order goes through. Also skips shopping ads in YouTube, Instagram, Facebook and WhatsApp.</string>
+    <string name="channel_protection">Protection status</string>
+    <string name="channel_requests">Order approvals</string>
+    <string name="eject_notice">Order paused — family is checking\nऑर्डर रुका है — परिवार जाँच रहा है</string>
+</resources>

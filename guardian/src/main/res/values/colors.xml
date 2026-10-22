@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Deliberate palette: warm paper, dark ink, one deep-green accent.
+     No gradients anywhere in this app. -->
+<resources>
+    <color name="paper">#FAF6EF</color>
+    <color name="paper_card">#FFFFFF</color>
+    <color name="ink">#1E1B16</color>
+    <color name="ink_soft">#57503F</color>
+    <color name="accent_green">#1F6B3A</color>
+    <color name="accent_green_dark">#174F2B</color>
+    <color name="warn_amber">#8A5A00</color>
+    <color name="deny_red">#9E2B1E</color>
+    <color name="line">#DDD3BE</color>
+</resources>

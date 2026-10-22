@@ -1,0 +1,26 @@
+# Android / Gradle build outputs
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Module build directories
+guardian/build/
+approver/build/
+shared/build/
+build/
+**/build/
+
+# Signing / Sensitive keys
+*.keystore
+!release.keystore.example
+google-services.json
+
+# APKs directory (except keep the folder structure if needed)
+/apks/*.apk
